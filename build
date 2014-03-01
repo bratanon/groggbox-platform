@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd web
+
+drush make --working-copy --no-gitinfofile ../project.make -y
