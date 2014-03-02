@@ -1,2 +1,5 @@
+nbproject/*
+
 web/*
 !web/README
+/nbproject/private/

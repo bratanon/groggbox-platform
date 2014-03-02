@@ -6,7 +6,7 @@ core = 7.x
 projects[drupal][version] = 7.26
 
 ; Profile
-;projects[groggbox][type] = profile
-;projects[groggbox][download][type] = git
-;projects[groggbox][download][url] = git@github.com:
-;projects[groggbox][download][branch] = master
+projects[groggbox][type] = profile
+projects[groggbox][download][type] = git
+projects[groggbox][download][url] = git@github.com:bratanon/groggbox-profile.git
+projects[groggbox][download][branch] = master
