@@ -3,7 +3,7 @@ api = 2
 core = 7.x
 
 ; Drupal
-projects[drupal][version] = 7.27
+projects[drupal][version] = 7.28
 
 ; Profile
 projects[groggbox][type] = profile
