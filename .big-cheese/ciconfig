@@ -1,0 +1,4 @@
+profile = groggbox
+root = web
+
+server_uri = ci.test.dev
